@@ -1,0 +1,36 @@
+# Node.js dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Directory for locally-installed packages
+.pnp
+.pnp.js
+
+# Mac system files
+.DS_Store
+
+# npm package lock file (if not using it for versioning)
+package-lock.json
+
+# Build artifacts
+dist/
+build/
+
+# Test coverage
+coverage/
+
+# VS Code settings (if using VS Code)
+.vscode/
+
+# IDE-specific files (JetBrains, etc.)
+.idea/
+
+# OS-generated files
+Thumbs.db
